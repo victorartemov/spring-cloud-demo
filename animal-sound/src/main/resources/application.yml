@@ -1,7 +1,3 @@
-server:
-  port: 9091
-defaultSound: hi!
-sounds:
-  dog: woof!
-  cat: mew!
-  human: hi!
+spring:
+  application:
+    name: animal-sound
