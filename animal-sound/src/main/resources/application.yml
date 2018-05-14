@@ -1,0 +1,7 @@
+server:
+  port: 9091
+defaultSound: hi!
+sounds:
+  dog: woof!
+  cat: mew!
+  human: hi!
