@@ -1,0 +1,7 @@
+server:
+  port: 8091
+defaultInfo: this is a human
+infos:
+  dog: this is a dog
+  cat: this is a cat
+  human: this is a human
